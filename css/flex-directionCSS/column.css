@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    background-color: #48C0E1;
+    min-height: 596px;
+    min-width: 1490px;
+    display: flex;
+    flex-direction: column;
+}
+    div{
+        width: 200px;
+        height: 90px;
+        background-color: crimson;
+        font-size: 40px;
+        margin: 5px;
+        text-align: center;
+        padding-top: 23px;
+    }
+    p{
+        font-size: 25px;
+        font-family: 'Cormorant Garamond', serif;
+        margin: auto;
+    }
